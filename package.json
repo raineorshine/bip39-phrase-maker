@@ -1,6 +1,6 @@
 {
   "name": "bip39-phrase-maker",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert ascii strings into bip39 phrases.",
   "license": "ISC",
   "repository": "https://github.com/raineorshine/bip39-phrase-maker",
